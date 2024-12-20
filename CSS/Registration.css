@@ -1,0 +1,17 @@
+﻿body {
+}
+#btnAboutUs{
+    color: deeppink;
+}
+#btnContactUs {
+    color: blue;
+}
+#btnServices {
+    color: olive;
+}
+#txtFirstname{
+    color: red;
+}
+#txtLastname {
+    color: red;
+}
